@@ -1,0 +1,19 @@
+#button：focus {
+  outline: none;
+}
+
+.passwd-btn:focus {
+  outline: 0;
+}
+
+.passwd-btn:active {
+  outline: 0;
+}
+
+.passwd-btn:hover {
+  outline: none;
+}
+
+.appleid_box {
+  margin: 20px;
+}
